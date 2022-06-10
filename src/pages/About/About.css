@@ -1,0 +1,17 @@
+.about img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.about{
+    border: 1px solid tomato;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+span{
+    color: tomato;
+    font-weight: 700;
+}

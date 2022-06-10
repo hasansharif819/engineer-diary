@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Sharif Hasan",
+        "serviceName": "Web/Software developed",
+        "price": "1500",
+        "img": "https://i.ibb.co/WxV8YPZ/pic2.jpg",
+        "email": "sharif@gmail.com"
+    },
+    {
+        "id": 2,
+        "name": "Hasan Sharif",
+        "serviceName": "IT Solutions",
+        "price": "1900",
+        "img": "https://i.ibb.co/Xkcb1Rw/g4.jpg",
+        "email": "sharif@gmail.com"
+    },
+    {
+        "id": 3,
+        "name": "Hasan Shuvro",
+        "serviceName": "Bug Fixing",
+        "price": "900",
+        "img": "https://i.ibb.co/WxV8YPZ/pic2.jpg",
+        "email": "sharif@gmail.com"
+    },
+    {
+        "id": 4,
+        "name": "Shuvro Sharif",
+        "serviceName": "JS Developer",
+        "price": "1900",
+        "img": "https://i.ibb.co/NVsWL1d/pic3.jpg",
+        "email": "sharif@gmail.com"
+    },
+    {
+        "id": 5,
+        "name": "Sharif Hasan Shuvro",
+        "serviceName": "Networking",
+        "price": "2500",
+        "img": "https://i.ibb.co/zHn3BR8/pic4.jpg",
+        "email": "sharif@gmail.com"
+    },
+    {
+        "id": 6,
+        "name": "Shuvro Sharif Hasan",
+        "serviceName": "Data Analysis",
+        "price": "5000",
+        "img": "https://i.ibb.co/pfGsQ9w/pic5.jpg",
+        "email": "sharif@gmail.com"
+    }
+]

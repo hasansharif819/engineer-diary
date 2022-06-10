@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "sharif",
+        "email": "shuvro@gmail.com",
+        "review": "The solution was amazing",
+        "img": "https://i.ibb.co/WxV8YPZ/pic2.jpg",
+        "ratings": "4"
+    },
+    {
+        "id": 2,
+        "name": "hasan",
+        "email": "shuvro@gmail.com",
+        "review": "It was amazing and fast",
+        "img": "https://i.ibb.co/Xkcb1Rw/g4.jpg",
+        "ratings": "4.5"
+    },
+    {
+        "id": 3,
+        "name": "shuvro",
+        "email": "shuvro@gmail.com",
+        "review": "The solution was awesome",
+        "img": "https://i.ibb.co/NVsWL1d/pic3.jpg",
+        "ratings": "4.8"
+    },
+    {
+        "id": 4,
+        "name": "himadro",
+        "email": "shuvro@gmail.com",
+        "review": "Thank you for solving the problem",
+        "img": "https://i.ibb.co/zHn3BR8/pic4.jpg",
+        "ratings": "5"
+    }
+    
+]
